@@ -1,4 +1,4 @@
-#Deployed on- https://netflix-clone-6452f.web.app/
+Deployed on- https://netflix-clone-6452f.web.app/
 
 # Getting Started with Create React App
 
